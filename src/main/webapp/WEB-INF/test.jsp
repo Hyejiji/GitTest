@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>update gogogo</title>
+<title>해봐 좀</title>
 </head>
 <body>
 
