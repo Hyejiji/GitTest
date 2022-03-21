@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>I돼냐나나낭</title>
 </head>
 <body>
 
